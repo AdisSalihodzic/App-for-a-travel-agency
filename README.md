@@ -1,2 +1,3 @@
 # App-for-a-travel-agency
 # App-for-a-travel-agency This application imitates travel agency with all with all its features.  It allows users to view and search for various tourist destinations with the possibility of booking tickets, leaving impressions and participating in the prize-winning game, as well as the ability to edit profiles and view  heir own destinations for which the client booked a ticket. Administrators can view all users, reserved tickets, add new destinations, adjust the action prices for tickets, add new  employees, track statistics, add new prize games as well as select the winners of the previous one, list all participants of the prize game and list of all winners.
+The entire code was made in PHP, with HTML, CSS, JavaScript and jQuery.
